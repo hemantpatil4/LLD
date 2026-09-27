@@ -104,26 +104,6 @@ Not every word becomes a class.
 
 Rule for now: a class represents a thing that has its own data and its own actions. A single number, flag, or string usually stays as a field.
 
-## Exercise
+## Practice
 
-Do this before the next lesson. Write the answer in your reply. No need for a full program.
-
-**Small exercise**
-
-A vending machine sells items. Each item has a name, a price, and a stock count.
-
-1. What is the class?
-2. What are three objects you would create for a demo?
-3. Which of these should **not** be a class, and why: `Item`, `price`, `buy`?
-
-**Interview-style problem**
-
-> Design the objects for a library desk. A member borrows a book and receives a loan record. The library tracks which copy was borrowed.
-
-List only:
-
-- the classes you would create
-- two objects for one real borrow
-- one word from the sentence that you would keep as a field or a method, not as a class
-
-Stop there. I will review it, then we move to the next OOP idea.
+Questions for the whole OOP level are in `09-practice.md`. Answer those after you finish the level.
