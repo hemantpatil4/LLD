@@ -25,8 +25,7 @@ Language: interview-readable C#. Patterns are used only when they solve a real p
 ## Learning order
 
 ```text
-0.  Assessment                         (in progress)
-1.  OOP revision
+1.  OOP revision                       (in progress)
 2.  SOLID
 3.  Relationships / UML
 4.  Composition vs inheritance
@@ -154,4 +153,4 @@ Evaluation rubric, coding style, DI wiring, repository boundary, errors, idempot
 ...
 ```
 
-Current step: **Assessment, question 1**.
+Current step: **Level 1 — Class and object**. Assessment was skipped.
