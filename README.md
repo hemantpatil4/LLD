@@ -26,7 +26,7 @@ Language: interview-readable C#. Patterns are used only when they solve a real p
 
 ```text
 1.  OOP revision                       (taught, practice open)
-2.  SOLID
+2.  SOLID                             (taught, practice open)
 3.  Relationships / UML
 4.  Composition vs inheritance
 5.  Interfaces / abstractions
@@ -153,4 +153,4 @@ Evaluation rubric, coding style, DI wiring, repository boundary, errors, idempot
 ...
 ```
 
-Current step: **Level 1 practice**. Lessons are in `01-oop/`. Answer `01-oop/09-practice.md`.
+Current step: **Level 2 practice**. Lessons are in `02-solid/`. Level 1 practice is still open.
