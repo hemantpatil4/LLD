@@ -27,8 +27,8 @@ Language: interview-readable C#. Patterns are used only when they solve a real p
 ```text
 1.  OOP revision                       (taught, practice open)
 2.  SOLID                             (taught, practice open)
-3.  Relationships / UML
-4.  Composition vs inheritance
+3.  Relationships / UML               (taught, practice open)
+4.  Composition vs inheritance        (taught with Level 3)
 5.  Interfaces / abstractions
 6.  Dependency injection
 7.  Remaining design patterns
@@ -153,4 +153,4 @@ Evaluation rubric, coding style, DI wiring, repository boundary, errors, idempot
 ...
 ```
 
-Current step: **Level 2 practice**. Lessons are in `02-solid/`. Level 1 practice is still open.
+Current step: **Level 3 practice**. Lessons are in `03-relationships-uml/`. Levels 1 and 2 practice are still open.
